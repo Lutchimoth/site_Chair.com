@@ -382,6 +382,7 @@ h2 {
 
     .container-flex #btn-info{
         border-radius: 4px;
+        margin: 18px auto;
     }
 
     .container-flex .especificacoes{
